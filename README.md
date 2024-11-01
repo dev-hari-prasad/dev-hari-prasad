@@ -1,9 +1,3 @@
-- 👋 Hi, I’m hari-prasad
-- 👀 I’m interested in web development and AI ML ...
-- 🌱 I’m currently learning the backend ...
-- 💞️ I’m looking to collaborate on chromium extensions...
+I love ❤️ building cool, no-nonsense tech that really helps.
 
-<!---
-dev-hari-prasad/dev-hari-prasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm also one of the founders at Not Boring, a web dev agency that creates amazing tech.
