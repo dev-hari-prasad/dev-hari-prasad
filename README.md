@@ -14,8 +14,6 @@ I love building cool tech.
  ---
 
 <p align="center">
-  <sub>
     If you find a security vulnerability in any project I maintain, please report it at 
     <a href="mailto:harii.codess@gmail.com">harii.codess@gmail.com</a>. Thanks. 
-  </sub>
 </p>
