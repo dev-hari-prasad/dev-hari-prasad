@@ -9,7 +9,7 @@ I love building cool tech.
 - Wait, I also built a Chrome extension for 10x devs: [Auto Local](https://chromewebstore.google.com/detail/auto-local-reload-local-h/lnfmgdlmblknhmcmchpboccjaddnnfde?hl=en)
 
 ↳ And I share my thoughts on:
- [My Blog](https://bitsbyhari.com/blog)
+ [My Blog](https://www.heyhari.tech/blogs)
 
  ---
 
