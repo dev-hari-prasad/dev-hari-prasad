@@ -1,6 +1,6 @@
 ### Hey, I'm Hari 👋
 
-I love building cool tech.
+Full-Stack Engineer with 3+ years of experience building scalable applications in the Node ecosystem.
 
 - Creator of [poge.dev](https://poge.dev) & [schemapad.dev](https://schemapad.dev)
 - 4+ years of experience building full-stack applications
