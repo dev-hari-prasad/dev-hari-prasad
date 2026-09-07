@@ -1,6 +1,6 @@
 ### Hey, I'm Hari 👋
 
-Full-Stack Engineer with 3+ years of experience building scalable applications in the Node ecosystem.
+Full-Stack Engineer with 2+ years of experience building scalable applications in the Node ecosystem.
 
 - Frequent contributor to [pgAdmin](https://github.com/pgadmin-org/pgadmin4) 
 - 2+ years of experience building full-stack applications
