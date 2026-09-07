@@ -2,9 +2,8 @@
 
 Full-Stack Engineer with 3+ years of experience building scalable applications in the Node ecosystem.
 
-- Creator of [poge.dev](https://poge.dev) & [schemapad.dev](https://schemapad.dev)
-- Major external contributor to [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
-- 3+ years of experience building full-stack applications
+- Frequent contributor to [pgAdmin](https://github.com/pgadmin-org/pgadmin4) 
+- 2+ years of experience building full-stack applications
 - Focused on developer tools, databases, and AI workflows
 - Wait, I also built a Chrome extension for 10x devs: [Auto Local](https://chromewebstore.google.com/detail/auto-local-reload-local-h/lnfmgdlmblknhmcmchpboccjaddnnfde?hl=en)
 
